@@ -2,5 +2,5 @@
 env/
 traction_project/traction_project/secrets.py
 traction_project/traction_app/secrets.py
-traction_project/__pycache__/
+traction_project/traction_project/__pycache__/
 traction_project/db.sqlite3
