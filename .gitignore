@@ -1,0 +1,4 @@
+.DS_Store
+env/
+traction_project/traction_project/secrets.py
+traction_project/traction_app/secrets.py
